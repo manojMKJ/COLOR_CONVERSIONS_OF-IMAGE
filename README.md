@@ -37,8 +37,8 @@ Split and merge HSV Image
 
 ## Program:
 ```
- Developed By: Balachandran S
- Register Number: 212222100008
+ Developed By: Manoj Kumar G
+ Register Number: 212222230078
 ```
 
 ### i) Read and display the image
